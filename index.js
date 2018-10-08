@@ -7,7 +7,7 @@ function whisper(string) {
 }
 
 function logWhisper(string) {
-  console.log(stringtoLowerCase())
+  console.log(string.toLowerCase())
   return string.toLowerCase()
 }
 
